@@ -13,3 +13,5 @@ echo -e "Hello,\nWelcome to Devops training"
 
 # print new lines
 echo -e "Hello,\n\nWelcome to Devops training"
+
+cho -e "\tHello,\n\nWelcome to Devops training"
