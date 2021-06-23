@@ -10,3 +10,6 @@ echo Hello World
 # echo to print multiple lines (\n is new line sequence)
 # syntax: echo -e "Hello,\nWelcome to Devops training"
 echo -e "Hello,\nWelcome to Devops training"
+
+# print new lines
+echo -e "Hello,\n\nWelcome to Devops training"
