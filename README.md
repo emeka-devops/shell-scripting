@@ -23,3 +23,5 @@ echo -e "\nHello,\n,\nWelcome to DevOps Training"
 
 echo -e "\e[31mHello in RED\e[0m"
 echo -e "\e[33mHello in YELLOW\e{0m"
+
+###obi is a boy
