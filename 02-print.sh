@@ -26,6 +26,6 @@ echo -e "\tHello,\n\nWelcome to Devops training"
 #magenta  35
 #cyan     36
 
-echo -e "\[e31mPrint me red"
+echo -e "\e[31mPrint me red"
 
 
