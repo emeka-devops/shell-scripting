@@ -27,5 +27,7 @@ echo -e "\tHello,\n\nWelcome to Devops training"
 #cyan     36
 
 echo -e "\e[31mPrint me red"
+echo -e "\e[34mPrint me blue"
+echo -e "\e[33mPrint me as yelow"
 
 
