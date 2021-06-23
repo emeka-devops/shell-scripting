@@ -14,4 +14,18 @@ echo -e "Hello,\nWelcome to Devops training"
 # print new lines
 echo -e "Hello,\n\nWelcome to Devops training"
 
-cho -e "\tHello,\n\nWelcome to Devops training"
+echo -e "\tHello,\n\nWelcome to Devops training"
+
+# print text in color
+# syntax: echo -e "\e[CODEmMessage
+# COLORS  CODE
+# RED     31
+# GREEN   32
+#Yellow   33
+#blue     34
+#magenta  35
+#cyan     36
+
+echo -e "\e31mPrint me red"
+
+
