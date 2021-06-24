@@ -3,7 +3,7 @@
 ##declear a function
 
 SAMPLE() {
-  echo welcome to sample function
+  echo -e "\e[31mWelcome to red function"
 }
 
 ##access your function
