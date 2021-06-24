@@ -8,4 +8,4 @@ SAMPLE() {
 }
 
 ##access your function
-SAMPLE
+SAMPLES
