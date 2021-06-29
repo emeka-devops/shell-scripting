@@ -7,7 +7,7 @@ SAMPLE() {
   #echo -e "\e[31mWelcome to red function"
   echo value of a = $a
   b=222
-  echo first argument = $3
+  echo first argument = $1
 }
 
 ##access your function
