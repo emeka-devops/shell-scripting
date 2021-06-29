@@ -12,4 +12,4 @@ SAMPLE() {
 ##access your function
 a=111
 SAMPLE
-value of b = $b
+echo value of b = $b
