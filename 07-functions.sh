@@ -4,7 +4,7 @@
 
 SAMPLE() {
   echo "\e[31mWelcome to red function"
-  #return
+  return
   #echo -e "\e[31mWelcome to red function"
   echo value of a = $a
   b=222
