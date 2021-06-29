@@ -16,4 +16,4 @@ a=111
 SAMPLE xyzz
 SAMPLE $1
 echo value of b = $b
-$?
+echo exit status of SAMPLE Function = $?
